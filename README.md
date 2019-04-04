@@ -3,7 +3,8 @@ Resources related to Category theory (links, tex files, and other notes).
 
 Interesting resources include:
 - [nLab](https://ncatlab.org/nlab/show/HomePage). Wiki.
-- [The n-Category Café](https://golem.ph.utexas.edu/category/). Blog
+- [The n-Category Café](https://golem.ph.utexas.edu/category/). Blog (good if you are already familiar with Cats)
+- [Math3ma](https://www.math3ma.com/about). Mathematics blog in general. Also contains well-written posts about concepts in Category theory such as functors, natural transformations, etc.
 - [The Catsters](https://www.youtube.com/user/TheCatsters). Short videos on variety of topics (feat. Dr. Eugenia Cheng).
 - [Bartocz Milewski's videos on Category theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_). *Note: there are parts I, II, and III. More info on his channel in Youtube.*
 - [Categories for the Working Mathematician](https://www.amazon.com/Categories-Working-Mathematician-Graduate-Mathematics/dp/0387984038).
