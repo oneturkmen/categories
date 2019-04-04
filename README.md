@@ -46,6 +46,8 @@ Interesting resources include:
 
 ### Representable functors and Yoneda Lemma
 
+- [Presheaves as limits of representable functors](https://mathoverflow.net/questions/3165/presheaves-as-limits-of-representable-functors)
+
 - [Colimits of representable functors](https://math.stackexchange.com/questions/736224/colimits-of-representable-functors)
 
 ### Diagrams, Cones, limits, cocones and colimits
