@@ -51,6 +51,10 @@ Interesting resources include:
 
 - [Colimits of representable functors](https://math.stackexchange.com/questions/736224/colimits-of-representable-functors)
 
+### Products, equalizers, and pullbacks
+
+- [Terminal objects as "nullary" products](https://math.stackexchange.com/questions/1991522/terminal-objects-as-nullary-products)
+
 ### Diagrams, Cones, limits, cocones and colimits
 
 - [What is the intuition behind diagrams?](https://math.stackexchange.com/questions/356591/category-theory-whats-the-intuition-behind-diagrams)
