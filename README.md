@@ -41,6 +41,8 @@ Interesting resources include:
 
 - [How to prove adjunctions compose?](https://math.stackexchange.com/questions/1315013/how-to-prove-adjunctions-compose-via-units-and-counits)
 
+- [How to show that two functors form an adjunction](https://math.stackexchange.com/questions/340909/how-to-show-two-functors-form-an-adjunction)
+
 - [If functors *F, G* constitute an equivalence, then they are adjoint in both directions](https://math.stackexchange.com/questions/2336257/if-functors-f-g-constitute-an-equivalence-then-they-are-adjoint-in-both-direc)
 
 - [Adjoint functor with initial objects](https://math.stackexchange.com/questions/629181/adjoint-functor-with-initial-objects)
